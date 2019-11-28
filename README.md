@@ -1,3 +1,5 @@
+Fork of teletype hardware WIP board revision with 0603 components
+
 # teletype hardware
 
 eurorack module by https://monome.org
